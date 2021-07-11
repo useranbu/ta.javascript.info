@@ -1,10 +1,10 @@
-# An Introduction to JavaScript
+# ஜாவாஸ்கிரிப்ட்டிற்கு அறிமுகம்
 
 Let's see what's so special about JavaScript, what we can achieve with it, and what other technologies play well with it.
 
-## What is JavaScript?
+## ஜாவாஸ்கிரிப்ட் என்றால் என்ன?
 
-*JavaScript* was initially created to "make web pages alive".
+வலைப்பக்கங்களை உயிர்ப்பிக்கவே *ஜாவாஸ்கிரிப்ட்* ஆரம்பத்தில் உருவாக்கப்பட்டது.
 
 The programs in this language are called *scripts*. They can be written right in a web page's HTML and run automatically as the page loads.
 
@@ -75,7 +75,7 @@ Examples of such restrictions include:
     This limitation is, again, for the user's safety. A page from `http://anysite.com` which a user has opened must not be able to access another browser tab with the URL `http://gmail.com` and steal information from there.
 - JavaScript can easily communicate over the net to the server where the current page came from. But its ability to receive data from other sites/domains is crippled. Though possible, it requires explicit agreement (expressed in HTTP headers) from the remote side. Once again, that's a safety limitation.
 
-![](limitations.svg)
+![img](limitations.svg)
 
 Such limits do not exist if JavaScript is used outside of the browser, for example on a server. Modern browsers also allow plugin/extensions which may ask for extended permissions.
 
@@ -88,6 +88,7 @@ There are at least *three* great things about JavaScript:
 + Simple things are done simply.
 + Support by all major browsers and enabled by default.
 ```
+
 JavaScript is the only browser technology that combines these three things.
 
 That's what makes JavaScript unique. That's why it's the most widespread tool for creating browser interfaces.
