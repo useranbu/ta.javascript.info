@@ -4,7 +4,7 @@ Let's see what's so special about JavaScript, what we can achieve with it, and w
 
 ## ஜாவாஸ்கிரிப்ட் என்றால் என்ன?
 
-வலைப்பக்கங்களை உயிர்ப்பிக்கவே *ஜாவாஸ்கிரிப்ட்* ஆரம்பத்தில் உருவாக்கப்பட்டது.
+வலைப்பக்கங்களை உயிர்ப்பிக்கவே *ஜாவாஸ்கிரிப்ட்* முதலில் உருவாக்கப்பட்டது.
 
 The programs in this language are called *scripts*. They can be written right in a web page's HTML and run automatically as the page loads.
 
